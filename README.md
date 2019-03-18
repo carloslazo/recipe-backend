@@ -1,24 +1,5 @@
-# README
+Rails backend.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This backend was made to support the recipe application https://recipe-app-react.netlify.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A few examples of this api are user registration, user lookups, recipe saving and so on. This backend is hosted on Heroku free tier so it takes a few seconds to wake up.
